@@ -4,9 +4,9 @@ Am bung. A developer care of user experience and developer experience.
 
 #### Experienced with
 
-- web frontend developer (ts,js,Nim).
-- backend developer (Nim,python,ruby,PHP).
-- mobile application developer (dart,java).
+- web frontend development (ts,js,Nim).
+- backend development (Nim,python,ruby,PHP).
+- mobile application development (dart,java).
 
 some languages I don't use anymore (PHP,java), some languages I want use more (Nim,ts,dart).  
 
