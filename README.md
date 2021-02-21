@@ -13,16 +13,16 @@ some languages I don't use anymore (PHP,java), some languages I want use more (N
 
 #### Popular projects  
 
-[vscode-rails](https://github.com/bung87/vscode-rails)  
-
-vscode rails extension. Write in ts. [![](https://vsmarketplacebadge.apphb.com/installs-short/bung87.rails.svg
+[vscode-rails](https://github.com/bung87/vscode-rails) [![](https://vsmarketplacebadge.apphb.com/installs-short/bung87.rails.svg
 )](https://marketplace.visualstudio.com/items?itemName=bung87.rails)  
 
-[ts2nim](https://github.com/bung87/ts2nim)  
+vscode rails extension. Write in ts.  
 
-Transpile ts,js modules to Nim. Write in ts. ![npm: total downloads](https://badgen.net/npm/dt/ts2nim)  
+[ts2nim](https://github.com/bung87/ts2nim) ![npm: total downloads](https://badgen.net/npm/dt/ts2nim)  
 
-[bixin](https://github.com/bung87/bixin).  ![PyPI - Downloads](https://img.shields.io/pypi/dm/bixin)  
+Transpile ts,js modules to Nim. Write in ts.  
+
+[bixin](https://github.com/bung87/bixin)  ![PyPI - Downloads](https://img.shields.io/pypi/dm/bixin)  
 
 Chinese Sentiment Analysis base on dictionary and rules. Write in python.
 
