@@ -27,5 +27,6 @@ Transpile ts,js modules to Nim. Write in ts.
 Chinese Sentiment Analysis base on dictionary and rules. Write in python.
 
 
+![bung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bung87&show_icons=true&theme=default)
 
 
