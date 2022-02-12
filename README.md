@@ -9,7 +9,7 @@ Am bung. A developer care of user experience and developer experience.
 - mobile application development (dart,java).
 - desktop application development (QT,flutter,electron)
 
-some languages I don't use anymore (PHP,java), some languages I want use more (Nim,ts,dart).  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bung87&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Popular projects  
 
