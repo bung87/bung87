@@ -9,7 +9,7 @@ Am bung. A developer care of user experience and developer experience.
 - mobile application development (dart,java).
 - desktop application development (QT,flutter,electron)
 
-<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="520" /></a>
+<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="467" /></a>
 #### Popular projects  
 
 [vscode-rails](https://github.com/bung87/vscode-rails) [![](https://vsmarketplacebadge.apphb.com/installs-short/bung87.rails.svg
