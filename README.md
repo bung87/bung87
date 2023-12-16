@@ -9,8 +9,7 @@ Am bung. A developer care of user experience and developer experience.
 - mobile application development (dart,java).
 - desktop application development (QT,flutter,electron)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bung87&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="520" /></a>
 #### Popular projects  
 
 [vscode-rails](https://github.com/bung87/vscode-rails) [![](https://vsmarketplacebadge.apphb.com/installs-short/bung87.rails.svg
@@ -27,6 +26,6 @@ Transpile ts,js modules to Nim. Write in ts.
 Chinese Sentiment Analysis base on dictionary and rules. Write in python.
 
 
-![bung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bung87&show_icons=true&theme=default)
+![bung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bung87&show_icons=true&theme=one_dark_pro)
 
 
